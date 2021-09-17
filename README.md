@@ -15,8 +15,7 @@ Server side source code: https://github.com/erankamil/Planta-Server
 App's screen shots and description photos:
 
 - High level description:
-- 
-![High_level_derc](https://user-images.githubusercontent.com/62330191/133806789-adf49cfb-899a-4f65-af39-de9e0942a6c9.jpeg)
+<img src="https://user-images.githubusercontent.com/62330191/133806789-adf49cfb-899a-4f65-af39-de9e0942a6c9.jpeg " width="400" height="250">
 
 - User's home screen:
 - 
