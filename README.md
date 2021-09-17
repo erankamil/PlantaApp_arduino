@@ -33,6 +33,4 @@ App's screen shots and description photos:
 <img src="https://user-images.githubusercontent.com/62330191/133807475-2d0dbada-3986-4ae3-9b2f-d4b8460ee529.jpeg" width="500" height="700">
 
 * Our project got the 3rd place out of 66 projects!
-* <img src="https://user-images.githubusercontent.com/62330191/133807670-4d18143d-d242-4c24-bbda-dc4a940a9658.jpeg" width="400" height="400">
-
-
+* <img src="https://user-images.githubusercontent.com/62330191/133807670-4d18143d-d242-4c24-bbda-dc4a940a9658.jpeg" width="400" height="500">
