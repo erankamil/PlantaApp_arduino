@@ -1,4 +1,4 @@
-![Planta_logo](https://user-images.githubusercontent.com/62330191/133806040-e6413aff-e483-4837-a418-5aa0f34049b9.PNG =250x250)
+![Planta_logo](https://user-images.githubusercontent.com/62330191/133806040-e6413aff-e483-4837-a418-5aa0f34049b9.PNG | width=100)
 
 
 A mobile application for helping home plant growers in the process of growing the plant by receiving real time information about the light and moisture of the plant.
