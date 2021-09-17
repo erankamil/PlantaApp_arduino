@@ -14,11 +14,11 @@ Server side source code: https://github.com/erankamil/Planta-Server
 
 App's screen shots and description photos:
 
-- High level description:
-<img src="https://user-images.githubusercontent.com/62330191/133806789-adf49cfb-899a-4f65-af39-de9e0942a6c9.jpeg " width="900" height="450">
+- High level description:	- User's home screen: 
+<img src="https://user-images.githubusercontent.com/62330191/133806789-adf49cfb-899a-4f65-af39-de9e0942a6c9.jpeg " width="900" height="450"> <img src="https://user-images.githubusercontent.com/62330191/133806949-dcb4b722-c77c-42d9-8977-45b5469605e0.jpeg" width="200" height="400">
 
-- User's home screen:
-<img src="https://user-images.githubusercontent.com/62330191/133806949-dcb4b722-c77c-42d9-8977-45b5469605e0.jpeg" width="200" height="400">
+
+
 
 -Plant info (Broccoli that case):
 <img src="https://user-images.githubusercontent.com/62330191/133807135-20c8778a-99a6-4844-a38c-979e535a79a8.jpeg" width="200" height="400">
